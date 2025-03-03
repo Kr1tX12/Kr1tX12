@@ -1,3 +1,24 @@
+<div>
+  <div>
+
+<div align="center"> 
+  <img src="https://media1.tenor.com/m/TArLO7G6YBAAAAAd/3d-crawlout.gif" width="30" height="66" alt="a 3d rendering of a naked man with his arms outstretched and a black background" style="max-width:50px; background-color: rgb(109, 100, 96);" fetchpriority="high">
+  <img src="https://media1.tenor.com/m/TArLO7G6YBAAAAAd/3d-crawlout.gif" width="30" height="66" alt="a 3d rendering of a naked man with his arms outstretched and a black background" style="max-width:50px; background-color: rgb(109, 100, 96);" fetchpriority="high">
+  <img src="https://media1.tenor.com/m/TArLO7G6YBAAAAAd/3d-crawlout.gif" width="30" height="66" alt="a 3d rendering of a naked man with his arms outstretched and a black background" style="max-width:50px; background-color: rgb(109, 100, 96);" fetchpriority="high">
+  <img src="https://media1.tenor.com/m/TArLO7G6YBAAAAAd/3d-crawlout.gif" width="30" height="66" alt="a 3d rendering of a naked man with his arms outstretched and a black background" style="max-width:50px; background-color: rgb(109, 100, 96);" fetchpriority="high">
+  <img src="https://media1.tenor.com/m/TArLO7G6YBAAAAAd/3d-crawlout.gif" width="30" height="66" alt="a 3d rendering of a naked man with his arms outstretched and a black background" style="max-width:50px; background-color: rgb(109, 100, 96);" fetchpriority="high">
+  <img src="https://media1.tenor.com/m/TArLO7G6YBAAAAAd/3d-crawlout.gif" width="30" height="66" alt="a 3d rendering of a naked man with his arms outstretched and a black background" style="max-width:50px; background-color: rgb(109, 100, 96);" fetchpriority="high">
+  <img src="https://media1.tenor.com/m/TArLO7G6YBAAAAAd/3d-crawlout.gif" width="30" height="66" alt="a 3d rendering of a naked man with his arms outstretched and a black background" style="max-width:50px; background-color: rgb(109, 100, 96);" fetchpriority="high">
+  <img src="https://media1.tenor.com/m/TArLO7G6YBAAAAAd/3d-crawlout.gif" width="30" height="66" alt="a 3d rendering of a naked man with his arms outstretched and a black background" style="max-width:50px; background-color: rgb(109, 100, 96);" fetchpriority="high">
+  <img src="https://media1.tenor.com/m/TArLO7G6YBAAAAAd/3d-crawlout.gif" width="30" height="66" alt="a 3d rendering of a naked man with his arms outstretched and a black background" style="max-width:50px; background-color: rgb(109, 100, 96);" fetchpriority="high">
+  <img src="https://media1.tenor.com/m/TArLO7G6YBAAAAAd/3d-crawlout.gif" width="30" height="66" alt="a 3d rendering of a naked man with his arms outstretched and a black background" style="max-width:50px; background-color: rgb(109, 100, 96);" fetchpriority="high">
+  <img src="https://media1.tenor.com/m/TArLO7G6YBAAAAAd/3d-crawlout.gif" width="30" height="66" alt="a 3d rendering of a naked man with his arms outstretched and a black background" style="max-width:50px; background-color: rgb(109, 100, 96);" fetchpriority="high">
+  <img src="https://media1.tenor.com/m/TArLO7G6YBAAAAAd/3d-crawlout.gif" width="30" height="66" alt="a 3d rendering of a naked man with his arms outstretched and a black background" style="max-width:50px; background-color: rgb(109, 100, 96);" fetchpriority="high">
+  <img src="https://media1.tenor.com/m/TArLO7G6YBAAAAAd/3d-crawlout.gif" width="30" height="66" alt="a 3d rendering of a naked man with his arms outstretched and a black background" style="max-width:50px; background-color: rgb(109, 100, 96);" fetchpriority="high">
+  <img src="https://media1.tenor.com/m/TArLO7G6YBAAAAAd/3d-crawlout.gif" width="30" height="66" alt="a 3d rendering of a naked man with his arms outstretched and a black background" style="max-width:50px; background-color: rgb(109, 100, 96);" fetchpriority="high">
+  <img src="https://media1.tenor.com/m/TArLO7G6YBAAAAAd/3d-crawlout.gif" width="30" height="66" alt="a 3d rendering of a naked man with his arms outstretched and a black background" style="max-width:50px; background-color: rgb(109, 100, 96);" fetchpriority="high">
+  <img src="https://media1.tenor.com/m/TArLO7G6YBAAAAAd/3d-crawlout.gif" width="30" height="66" alt="a 3d rendering of a naked man with his arms outstretched and a black background" style="max-width:50px; background-color: rgb(109, 100, 96);" fetchpriority="high">
+</div>
 <h1 align="center">👁️ НЕ СМОТРИ 👁️</h1>
 <marquee scrollamount="50" behavior="alternate" direction="left">🩸 ПОЗДНО. ОНИ УЖЕ ЗДЕСЬ. 🩸</marquee>
 
@@ -31,14 +52,28 @@
   ААААААААААААААААААААААААААААААААААААААААААААААААААААААААААААААААААААААААААААААААААА
 </p>
 
-
+<div align="center">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/gatsby/gatsby-original.svg" title="Gatsby"  alt="Gatsby" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+</div>
 ⛧⛥⛦⛧ 𝖉𝖔𝖓'𝖙 𝖑𝖔𝖔𝖐 𝖇𝖊𝖍𝖎𝖓𝖉 𝖞𝖔𝖚 ⛧⛥⛦⛧ 𓂀 𓆣𓂀 𓆣𓂀 𓆣𓂀 𓆣𓂀 𓆣𓂀 𓆣𓂀 𓆣𓂀 𓆣𓂀
-
-
 ---
 ---
 ---
-⛥⛦⛥⛦⛥⛦⛥⛦⛥⛦⛥⛦⛥⛦⛥⛦⛥⛦⛥⛦⛥⛦⛥⛦⛥⛦⛥⛦⛥⛦⛥⛦⛥⛦⛥⛦⛥⛦⛥⛦⛥⛦⛥⛦⛥⛦⛥⛦⛥⛦⛥⛦⛥⛦⛥⛦⛥⛦⛥⛦⛥⛦⛥⛦⛥⛦⛥⛦⛥⛦⛥⛦⛥⛦⛥⛦⛥⛦⛥⛦⛥⛦⛥⛦⛥⛦
+~~⛥⛦⛥⛦⛥⛦⛥⛦⛥⛦⛥⛦⛥⛦⛥⛦⛥⛦⛥⛦⛥⛦⛥⛦⛥⛦⛥⛦⛥⛦⛥⛦⛥⛦⛥⛦⛥⛦⛥⛦⛥⛦⛥⛦⛥⛦⛥⛦⛥⛦⛥⛦⛥⛦⛥⛦⛥⛦⛥⛦⛥⛦⛥⛦⛥⛦⛥⛦⛥⛦⛥⛦⛥⛦⛥⛦⛥⛦⛥⛦⛥⛦⛥⛦⛥⛦~~
 ---
 ---
 ---
@@ -47,4 +82,9 @@
   <source src="https://www.myinstants.com/media/sounds/segodnia-kakal.mp3" type="audio/mpeg">
 </audio>
 
-[![НОВАЯ РЕАЛЬНОСТЬ](https://img.shields.io/badge/%D0%9D%D0%95%20%D0%9D%D0%90%D0%96%D0%98%D0%9C%D0%90%D0%99%F0%9F%92%80%F0%9F%92%80%E2%98%A0-purple?style=for-the-badge)](https://www.myinstants.com/media/sounds/segodnia-kakal.mp3)  
+[![НОВАЯ РЕАЛЬНОСТЬ](https://img.shields.io/badge/МОЙБЛОГ(КАЖДЫЙДЕНЬОБНОВЛЯЮ)-purple?style=for-the-badge)](https://www.myinstants.com/media/sounds/segodnia-kakal.mp3)  
+
+  </div>
+      <img src="https://media1.tenor.com/m/TArLO7G6YBAAAAAd/3d-crawlout.gif" width="300000" height="20" alt="a 3d rendering of a naked man with his arms outstretched and a black background" style="max-width:50px; background-color: rgb(109, 100, 96);" fetchpriority="high">
+ 
+</div>
