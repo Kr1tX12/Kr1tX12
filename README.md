@@ -1,68 +1,50 @@
-# Пишу код на JAVASCRIPT, TYPESCRIPT, PYTHON, JAVA, C#, И КОНЕЧНО НА HTML CSS SQL 
+<h1 align="center">👁️ НЕ СМОТРИ 👁️</h1>
+<marquee scrollamount="50" behavior="alternate" direction="left">🩸 ПОЗДНО. ОНИ УЖЕ ЗДЕСЬ. 🩸</marquee>
 
-я профессионал точно
-
-![я сижу делаю игру fgsg](https://steamuserimages-a.akamaihd.net/ugc/1294171102395095234/FEBA3B8F42666AF4C394026AD885F013115B9B62/)
-
-# Делаю игры на UNITY
-вот моя игра самая первая поиграйте и рекламу посмотрите -->>>> 
-
-> ЩАС ДЕЛАЮ ИГРУ САМУЮ ЛУЧШУЮ УЖЕ ПОЛГОДА ОНА В СКРЫТНОМ РЕПОЗИТОРИИ ВЗЛАМЫВАЙТЕ ЕСЛИ ХОТИТЕ ПОИГРАТЬ 
-# Делаю офигенные вебсайты для всего
-
-СЕЙЧАС Я ИСПОЛЬЗУЮ ДОФИГА ЧЕГО --->>> 
-- React и всё что с ним связано
-- Next.js и все его штучки
-- Tanstack Query
-- Zustand Redux
-- Three js FIBER DREI
-- NODE.JS
-- EXPRESS.js
-- EJS
-- POSTGERSQL
-- MYSQL
-- MONGODB ЗАчем в РОССИИ заблокировали теперь не пользуюсь шафьшуаошуьа
-- JWT
-- html
-- TAILWIND CSS
-- SHADCN UI
-- И МНОГОЕ ДРУГОЕ О ЧЕМ ВЫ НЕ ЗНАЕТЕ
-
-## СЕКРЕТНАЯ ИНФОРМАЦИЯ
-Я ДЕЛАЮ ПЛАГИНЫ ДЛЯ МАЙНКРАФТА НА SPIGOT 
-
-> уже полгода не делаю и всё забыл
-
-![asdfkasd](https://sun9-16.userapi.com/impg/r6obvXlOEgnDZgNDw2wX42qGJMl9f05CPlaLDQ/c1XhZPcrDdE.jpg?size=1080x601&quality=95&sign=4f882651cef1e71bc3cdbc77e5cb2d9c&c_uniq_tag=hsxZo7stPp8OvJYS2mzxyOMEn3QV_eKXK_S07eTmZvw&type=album)
-
-# МОИ СКОРОСТНЫЕ ПОКАЗАТЕЛИ
-на клавиатуре пишу по 100 слов в минуту каждый день сейчас тоже а ещё ENGLISH тоже по сто слов в минуту
-> Больше 10 пальцев использую
-
-
-## Зачем я это пишу
-чтобы вы узнали какой я профессионал в своем деле и дали денег я вам все сделаю
-> ПОСМОТРИТЕ СМЕШНЫЕ ЦЕНЫ НА МОЮ РАБОТУ
-
-$$
-1 ЧАС РАБОТЫ = \left( \tan\left(\frac{\pi}{4}\right) + \sqrt{100} \cdot \sin\left(\frac{\pi}{6}\right) \cdot 10^5 \right) \cdot \left( \frac{e^{i\frac{\pi}{2}} + e^{-i\frac{\pi}{2}}}{2} \right)^2 РУБЛЕЙ
-$$
-
-Толкько не забудьте заплатить ок? 
-
-СДЕЛАЮ ВАМ САЙТ, ПЛАГИН ДЛЯ МАЙНКРАФТА, ИГРУ 
-
-# КАКОЙ У МЕНЯ ОПЫТ XP опыт
-
-У МЕНЯ ОЧЕНЬ big ОПЫТ:
-- сайты делать опыт 2год
-- игры делать опыт полгод
-- плагины делать опыт -5 месяце
-
-КОРОЧЕ я ПРОФЕССИОНАЛ И SENIOR С БОЛЬШИМ ОПЫТОМ
-
-![я сижу делаю игру](https://i.ytimg.com/vi/-o2BkVCIQtk/hqdefault.jpg)
-![image](https://github.com/user-attachments/assets/d5762a3f-e66c-4b16-9869-ad478f67ed79)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Creepster&size=35&pause=50&color=FF0000&center=true&vCenter=true&width=700&lines=%D0%A2%D0%92%D0%9E%D0%99+%D0%9A%D0%9E%D0%9D%D0%95%D0%A6+%D0%91%D0%9B%D0%98%D0%96%D0%95%2C+%D0%A7%D0%95%D0%9C+%D0%A2%D0%AB+%D0%94%D0%A3%D0%9C%D0%90%D0%95%D0%A8%D0%AC...;%F0%9F%91%BB+%D0%9E%D0%91%D0%95%D0%A0%D0%9D%D0%98%D0%A1%D0%AC...;%F0%9F%92%80+%D0%9D%D0%9E+%D0%9D%D0%98%D0%A7%D0%95%D0%93%D0%9E+%D0%9D%D0%95+%D0%A3%D0%92%D0%98%D0%94%D0%98%D0%A8%D0%AC...;%F0%9F%8E%83+%D0%9F%D0%98%D0%97%D0%94%D0%95%D0%A6!+%D0%91%D0%95%D0%93%D0%98!">
+</p>
 
 
 
+## 🕷️ **Ты всё ещё здесь?..**  
+
+
+
+### 💉 **НЕ СТОЙ НА МЕСТЕ!**  
+<details>
+  <summary>👁️ КЛИКНИ, ЕСЛИ НЕ БОИШЬСЯ</summary>
+  <p align="center">
+    <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="400"/>
+  </p>
+  <p align="center">
+    <strong>Ты принял неверное решение.</strong>
+  </p>
+</details>
+
+[![НЕ НАЖИМАЙ](https://img.shields.io/badge/%F0%9F%94%A5%20НЕ%20НАЖИМАЙ-red?style=for-the-badge)](https://www.myinstants.com/media/sounds/vine-boom.mp3)  
+
+
+
+## 💀 **ТЕПЕРЬ ТВОЯ ДУША ПРИНАДЛЕЖИТ НАМ**  
+<p align="center">
+  ААААААААААААААААААААААААААААААААААААААААААААААААААААААААААААААААААААААААААААААААААА
+</p>
+
+
+⛧⛥⛦⛧ 𝖉𝖔𝖓'𝖙 𝖑𝖔𝖔𝖐 𝖇𝖊𝖍𝖎𝖓𝖉 𝖞𝖔𝖚 ⛧⛥⛦⛧ 𓂀 𓆣𓂀 𓆣𓂀 𓆣𓂀 𓆣𓂀 𓆣𓂀 𓆣𓂀 𓆣𓂀 𓆣𓂀
+
+
+---
+---
+---
+⛥⛦⛥⛦⛥⛦⛥⛦⛥⛦⛥⛦⛥⛦⛥⛦⛥⛦⛥⛦⛥⛦⛥⛦⛥⛦⛥⛦⛥⛦⛥⛦⛥⛦⛥⛦⛥⛦⛥⛦⛥⛦⛥⛦⛥⛦⛥⛦⛥⛦⛥⛦⛥⛦⛥⛦⛥⛦⛥⛦⛥⛦⛥⛦⛥⛦⛥⛦⛥⛦⛥⛦⛥⛦⛥⛦⛥⛦⛥⛦⛥⛦⛥⛦⛥⛦
+---
+---
+---
+
+<audio autoplay loop>
+  <source src="https://www.myinstants.com/media/sounds/segodnia-kakal.mp3" type="audio/mpeg">
+</audio>
+
+[![НОВАЯ РЕАЛЬНОСТЬ](https://img.shields.io/badge/%D0%9D%D0%95%20%D0%9D%D0%90%D0%96%D0%98%D0%9C%D0%90%D0%99%F0%9F%92%80%F0%9F%92%80%E2%98%A0-purple?style=for-the-badge)](https://www.myinstants.com/media/sounds/segodnia-kakal.mp3)  
